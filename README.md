@@ -18,3 +18,6 @@ adaptive, pure JS, scss, gulp
 
 primeOne_landing_template: https://asraysun.github.io/site_PrimeOne/
 adaptive, pure JS, scss, gulp
+
+funito_template: https://asraysun.github.io/funiro/
+adaptive, pure JS, scss, gulp
